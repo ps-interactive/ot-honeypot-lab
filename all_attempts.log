@@ -1,0 +1,37 @@
+11/09/2023 11:10: Connection from : 127.0.0.1
+11/09/2023 11:10: Non ^A Command Attempt from: 127.0.0.1
+11/09/2023 11:11: Connection from : 127.0.0.1
+11/09/2023 11:11: Non ^A Command Attempt from: 127.0.0.1
+11/09/2023 11:15: Connection from : 127.0.0.1
+11/09/2023 11:15: Non ^A Command Attempt from: 127.0.0.1
+11/09/2023 11:16: Connection from : 127.0.0.1
+11/09/2023 11:16: Non ^A Command Attempt from: 127.0.0.1
+11/09/2023 11:19: Connection from : 127.0.0.1
+11/09/2023 11:19: Non ^A Command Attempt from: 127.0.0.1
+11/09/2023 11:20: Connection from : 127.0.0.1
+11/09/2023 11:20: Handling I20100 Command Attempt from: 127.0.0.1
+11/09/2023 11:21: Connection from : 127.0.0.1
+11/09/2023 11:21: Handling I20200 Command Attempt from: 127.0.0.1
+11/09/2023 11:21: Connection from : 127.0.0.1
+11/09/2023 11:21: Handling I20300 Command Attempt from: 127.0.0.1
+11/09/2023 11:21: Connection from : 127.0.0.1
+11/09/2023 11:21: Handling I20400 Command Attempt from: 127.0.0.1
+11/09/2023 11:22: Connection from : 127.0.0.1
+11/09/2023 11:22: Non ^A Command Attempt from: 127.0.0.1
+11/09/2023 11:22: Connection from : 127.0.0.1
+11/09/2023 11:22: Handling I20500 Command Attempt from: 127.0.0.1
+11/09/2023 11:23: Connection from : 127.0.0.1
+11/09/2023 11:23: Attempt from: 127.0.0.1
+11/09/2023 11:23: Command Entered b'^AI20101\n'
+11/09/2023 11:23: Connection from : 127.0.0.1
+11/09/2023 11:23: S60200:  Command Attempt from: 127.0.0.1
+11/09/2023 11:23: Connection from : 127.0.0.1
+11/09/2023 11:23: Non ^A Command Attempt from: 127.0.0.1
+11/09/2023 11:23: Connection from : 127.0.0.1
+11/09/2023 11:23: S60200:  banana Command Attempt from: 127.0.0.1
+11/09/2023 11:23: Connection from : 127.0.0.1
+11/09/2023 11:23: Handling I20100 Command Attempt from: 127.0.0.1
+11/09/2023 11:24: Connection from : 127.0.0.1
+11/09/2023 11:24: S60201:  apple Command Attempt from: 127.0.0.1
+11/09/2023 11:24: Connection from : 127.0.0.1
+11/09/2023 11:24: Handling I20100 Command Attempt from: 127.0.0.1

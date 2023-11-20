@@ -288,7 +288,7 @@ while True:
             addr = conn.getpeername()
             try:
                 # get current time in UTC
-                TIME = datetime.datetime.now(datetime.UTC)
+                TIME = datetime.datetime.utcnow()
                 # write out initial connection
                 log("Connection from : %s\n" % addr[0], log_destinations)
                 # Get the initial data

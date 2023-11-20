@@ -46,7 +46,7 @@ config.read(configuration_file)
 TCP_IP = config.get('host', 'tcp_ip')
 TCP_PORT = config.getint('host', 'tcp_port')
 BUFFER_SIZE = config.get('host', 'buffer_size')
-NOW = datetime.datetime.now(datetime.UTC)
+NOW = datetime.datetime.utcnow()
 FILLSTART = NOW - datetime.timedelta(minutes=313)
 FILLSTOP = NOW - datetime.timedelta(minutes=303)
 

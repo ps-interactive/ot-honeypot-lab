@@ -256,7 +256,7 @@ TANK   PRODUCT                 STATUS
     return I20500_1 + str(TIME.strftime('%m/%d/%Y %H:%M')) + I20500_2
 
 def log(mesg, destinations):
-  now = datetime.datetime.now(datetime.UTC)
+  now = datetime.datetime.utcnow()
   prefix = now.strftime('%m/%d/%Y %H:%M') + ': '
   for destination in destinations:
     destination.write(prefix + mesg)

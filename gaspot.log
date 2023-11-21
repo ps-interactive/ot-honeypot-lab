@@ -1047,7 +1047,7 @@
 11/12/2023 13:32:  Connection from : 80.66.89.158
 11/12/2023 13:32:  Handling I20400 Command Attempt
 11/12/2023 13:32:  Connection from : 213.171.44.82
-11/12/2023 13:32:  S60201: SUPER Command Attempt
+11/12/2023 13:32:  S60201: PREMIUM Command Attempt
 11/12/2023 13:33:  Connection from : 213.171.44.82
 11/12/2023 13:33:  Handling I20100 Command Attempt
 11/12/2023 13:37:  Connection from : 80.66.89.158
@@ -1150,7 +1150,7 @@
 11/12/2023 14:24:  Connection from : 94.232.11.178
 11/12/2023 14:24:  Handling I20100 Command Attempt
 11/12/2023 14:26:  Connection from : 94.232.11.178
-11/12/2023 14:26:  S60201: SUPER Command Attempt
+11/12/2023 14:26:  S60201: PREMIUM Command Attempt
 11/12/2023 14:27:  Connection from : 80.66.89.158
 11/12/2023 14:27:  Handling I20100 Command Attempt
 11/12/2023 14:27:  Connection from : 80.66.89.158
@@ -1191,9 +1191,9 @@
 11/12/2023 14:42:  Connection from : 80.66.89.158
 11/12/2023 14:42:  Handling I20400 Command Attempt
 11/12/2023 14:42:  Connection from : 94.232.11.178
-11/12/2023 14:42:  S60201: DIESEL Command Attempt
+11/12/2023 14:42:  S60201: UNLEAD_95 Command Attempt
 11/12/2023 14:43:  Connection from : 94.232.11.178
-11/12/2023 14:43:  S60203: SUPER Command Attempt
+11/12/2023 14:43:  S60203: PREMIUM Command Attempt
 11/12/2023 14:45:  Connection from : 94.232.11.178
 11/12/2023 14:45:  Handling I20100 Command Attempt
 11/12/2023 14:47:  Connection from : 80.66.89.158
